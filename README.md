@@ -19,13 +19,21 @@ Test your brain by matching pairs of emoji cards before time or moves run out.
 - 🐍 Python 3.x (with Tkinter preinstalled)  
 
 ---
-## 🚀 Installation  
-### 🗂️ Files  
-- **memory_puzzle_game.py** → The complete game logic and UI  
+## 🧩 Installation & Running the Game
 
-### ▶️ Run the Game  
+Follow these simple steps to get the Memory Puzzle Game running on your computer 👇  
+
+### 1️⃣ Clone this repository
 ```bash
+git clone https://github.com/lohi345/memory-puzzle-game
+cd memory-puzzle-game
+2️⃣ (Optional) Create a virtual environment
+python -m venv venv
+Activate it:
+Windows: venv\Scripts\activate
+3️⃣ Run the game
 python memory_puzzle_game.py
+🎮 The game window will open — start matching emoji cards!
 
 🎮 How to Play
 1️⃣ Click on two cards to reveal them.
